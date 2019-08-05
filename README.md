@@ -1,1 +1,3 @@
-# learn-rust
+# learn-rust by examples
+
+# guessing_game
